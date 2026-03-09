@@ -219,7 +219,7 @@
 <http://example.org/resource/praia/15005_A%20Salsa> <http://example.org/def/gamere#nomePraia> "A Salsa" .
 <http://example.org/resource/praia/15005_A%20Salsa> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15005> .
 <http://example.org/resource/praia/15005_A%20Salsa> <http://example.org/def/gamere#tipoArena> "Cantos rodados" .
-<http://example.org/resource/praia/15005_A%20Salsa> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=268679921"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15005_A%20Salsa> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=268679921> .
 <http://example.org/resource/praia/15005_A%20Salsa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15005_A%20Salsa> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121438> .
 <http://example.org/resource/praia/15005_Barra%C3%B1%C3%A1n> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -228,7 +228,7 @@
 <http://example.org/resource/praia/15005_Barra%C3%B1%C3%A1n> <http://example.org/def/gamere#nomePraia> "Barrañán" .
 <http://example.org/resource/praia/15005_Barra%C3%B1%C3%A1n> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15005> .
 <http://example.org/resource/praia/15005_Barra%C3%B1%C3%A1n> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15005_Barra%C3%B1%C3%A1n> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9861"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15005_Barra%C3%B1%C3%A1n> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9861> .
 <http://example.org/resource/praia/15005_Barra%C3%B1%C3%A1n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15005_Barra%C3%B1%C3%A1n> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q25509129> .
 <http://example.org/resource/praia/15005_Combouzas> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -237,7 +237,7 @@
 <http://example.org/resource/praia/15005_Combouzas> <http://example.org/def/gamere#nomePraia> "Combouzas" .
 <http://example.org/resource/praia/15005_Combouzas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15005> .
 <http://example.org/resource/praia/15005_Combouzas> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15005_Combouzas> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10269"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15005_Combouzas> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10269> .
 <http://example.org/resource/praia/15005_Combouzas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15005_Combouzas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q25509130> .
 <http://example.org/resource/praia/15005_Playa%20Valcovo> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -246,7 +246,7 @@
 <http://example.org/resource/praia/15005_Playa%20Valcovo> <http://example.org/def/gamere#nomePraia> "Playa Valcovo" .
 <http://example.org/resource/praia/15005_Playa%20Valcovo> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15005> .
 <http://example.org/resource/praia/15005_Playa%20Valcovo> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15005_Playa%20Valcovo> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10268"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15005_Playa%20Valcovo> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10268> .
 <http://example.org/resource/praia/15005_Playa%20Valcovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15005_Playa%20Valcovo> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24024572> .
 <http://example.org/resource/praia/15005_Sab%C3%B3n> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -255,7 +255,7 @@
 <http://example.org/resource/praia/15005_Sab%C3%B3n> <http://example.org/def/gamere#nomePraia> "Sabón" .
 <http://example.org/resource/praia/15005_Sab%C3%B3n> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15005> .
 <http://example.org/resource/praia/15005_Sab%C3%B3n> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15005_Sab%C3%B3n> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9859"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15005_Sab%C3%B3n> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9859> .
 <http://example.org/resource/praia/15005_Sab%C3%B3n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15005_Sab%C3%B3n> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24003520> .
 <http://example.org/resource/praia/15008_Gandar%C3%ADo> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -264,7 +264,7 @@
 <http://example.org/resource/praia/15008_Gandar%C3%ADo> <http://example.org/def/gamere#nomePraia> "Gandarío" .
 <http://example.org/resource/praia/15008_Gandar%C3%ADo> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15008> .
 <http://example.org/resource/praia/15008_Gandar%C3%ADo> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15008_Gandar%C3%ADo> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10120"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15008_Gandar%C3%ADo> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10120> .
 <http://example.org/resource/praia/15008_Gandar%C3%ADo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15008_Gandar%C3%ADo> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24003799> .
 <http://example.org/resource/praia/15016_Arou> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -273,7 +273,7 @@
 <http://example.org/resource/praia/15016_Arou> <http://example.org/def/gamere#nomePraia> "Arou" .
 <http://example.org/resource/praia/15016_Arou> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15016> .
 <http://example.org/resource/praia/15016_Arou> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15016_Arou> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso/-/detalle/10290/arou"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15016_Arou> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso/-/detalle/10290/arou> .
 <http://example.org/resource/praia/15016_Arou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15016_Arou> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121645> .
 <http://example.org/resource/praia/15019_Baldaio%20beach> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -282,7 +282,7 @@
 <http://example.org/resource/praia/15019_Baldaio%20beach> <http://example.org/def/gamere#nomePraia> "Baldaio beach" .
 <http://example.org/resource/praia/15019_Baldaio%20beach> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15019> .
 <http://example.org/resource/praia/15019_Baldaio%20beach> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15019_Baldaio%20beach> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=268649359"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15019_Baldaio%20beach> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=268649359> .
 <http://example.org/resource/praia/15019_Baldaio%20beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15019_Baldaio%20beach> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24003099> .
 <http://example.org/resource/praia/15019_Pedra%20do%20Sal> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -291,7 +291,7 @@
 <http://example.org/resource/praia/15019_Pedra%20do%20Sal> <http://example.org/def/gamere#nomePraia> "Pedra do Sal" .
 <http://example.org/resource/praia/15019_Pedra%20do%20Sal> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15019> .
 <http://example.org/resource/praia/15019_Pedra%20do%20Sal> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15019_Pedra%20do%20Sal> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=268882051"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15019_Pedra%20do%20Sal> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=268882051> .
 <http://example.org/resource/praia/15019_Pedra%20do%20Sal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15019_Pedra%20do%20Sal> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121663> .
 <http://example.org/resource/praia/15019_Razo> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -300,7 +300,7 @@
 <http://example.org/resource/praia/15019_Razo> <http://example.org/def/gamere#nomePraia> "Razo" .
 <http://example.org/resource/praia/15019_Razo> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15019> .
 <http://example.org/resource/praia/15019_Razo> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15019_Razo> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso/-/detalle/9863"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15019_Razo> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso/-/detalle/9863> .
 <http://example.org/resource/praia/15019_Razo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15019_Razo> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121665> .
 <http://example.org/resource/praia/15030_Beach%20of%20As%20Lapas> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -309,7 +309,7 @@
 <http://example.org/resource/praia/15030_Beach%20of%20As%20Lapas> <http://example.org/def/gamere#nomePraia> "Beach of As Lapas" .
 <http://example.org/resource/praia/15030_Beach%20of%20As%20Lapas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15030> .
 <http://example.org/resource/praia/15030_Beach%20of%20As%20Lapas> <http://example.org/def/gamere#tipoArena> "Grosa" .
-<http://example.org/resource/praia/15030_Beach%20of%20As%20Lapas> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=11435"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15030_Beach%20of%20As%20Lapas> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=11435> .
 <http://example.org/resource/praia/15030_Beach%20of%20As%20Lapas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15030_Beach%20of%20As%20Lapas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q18576114> .
 <http://example.org/resource/praia/15030_Beach%20of%20Santo%20Amaro> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -318,7 +318,7 @@
 <http://example.org/resource/praia/15030_Beach%20of%20Santo%20Amaro> <http://example.org/def/gamere#nomePraia> "Beach of Santo Amaro" .
 <http://example.org/resource/praia/15030_Beach%20of%20Santo%20Amaro> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15030> .
 <http://example.org/resource/praia/15030_Beach%20of%20Santo%20Amaro> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15030_Beach%20of%20Santo%20Amaro> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9855"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15030_Beach%20of%20Santo%20Amaro> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9855> .
 <http://example.org/resource/praia/15030_Beach%20of%20Santo%20Amaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15030_Beach%20of%20Santo%20Amaro> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20546375> .
 <http://example.org/resource/praia/15030_Playa%20de%20Oza> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -327,7 +327,7 @@
 <http://example.org/resource/praia/15030_Playa%20de%20Oza> <http://example.org/def/gamere#nomePraia> "Playa de Oza" .
 <http://example.org/resource/praia/15030_Playa%20de%20Oza> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15030> .
 <http://example.org/resource/praia/15030_Playa%20de%20Oza> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15030_Playa%20de%20Oza> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso?cod_rec=30564"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15030_Playa%20de%20Oza> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso?cod_rec=30564> .
 <http://example.org/resource/praia/15030_Playa%20de%20Oza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15030_Playa%20de%20Oza> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12398085> .
 <http://example.org/resource/praia/15030_Playa%20del%20Matadero> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -336,7 +336,7 @@
 <http://example.org/resource/praia/15030_Playa%20del%20Matadero> <http://example.org/def/gamere#nomePraia> "Playa del Matadero" .
 <http://example.org/resource/praia/15030_Playa%20del%20Matadero> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15030> .
 <http://example.org/resource/praia/15030_Playa%20del%20Matadero> <http://example.org/def/gamere#tipoArena> "Grosa" .
-<http://example.org/resource/praia/15030_Playa%20del%20Matadero> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9856"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15030_Playa%20del%20Matadero> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9856> .
 <http://example.org/resource/praia/15030_Playa%20del%20Matadero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15030_Playa%20del%20Matadero> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q18576276> .
 <http://example.org/resource/praia/15030_Praia%20de%20Riazor> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -345,7 +345,7 @@
 <http://example.org/resource/praia/15030_Praia%20de%20Riazor> <http://example.org/def/gamere#nomePraia> "Praia de Riazor" .
 <http://example.org/resource/praia/15030_Praia%20de%20Riazor> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15030> .
 <http://example.org/resource/praia/15030_Praia%20de%20Riazor> <http://example.org/def/gamere#tipoArena> "Grosa" .
-<http://example.org/resource/praia/15030_Praia%20de%20Riazor> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9857"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15030_Praia%20de%20Riazor> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9857> .
 <http://example.org/resource/praia/15030_Praia%20de%20Riazor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15030_Praia%20de%20Riazor> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3399382> .
 <http://example.org/resource/praia/15034_%C3%89zaro> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -354,7 +354,7 @@
 <http://example.org/resource/praia/15034_%C3%89zaro> <http://example.org/def/gamere#nomePraia> "Ézaro" .
 <http://example.org/resource/praia/15034_%C3%89zaro> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15034> .
 <http://example.org/resource/praia/15034_%C3%89zaro> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15034_%C3%89zaro> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=11460"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15034_%C3%89zaro> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=11460> .
 <http://example.org/resource/praia/15034_%C3%89zaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15034_%C3%89zaro> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121828> .
 <http://example.org/resource/praia/15036_Doni%C3%B1os> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -363,7 +363,7 @@
 <http://example.org/resource/praia/15036_Doni%C3%B1os> <http://example.org/def/gamere#nomePraia> "Doniños" .
 <http://example.org/resource/praia/15036_Doni%C3%B1os> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15036> .
 <http://example.org/resource/praia/15036_Doni%C3%B1os> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15036_Doni%C3%B1os> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10112"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15036_Doni%C3%B1os> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10112> .
 <http://example.org/resource/praia/15036_Doni%C3%B1os> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15036_Doni%C3%B1os> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121846> .
 <http://example.org/resource/praia/15036_Esmelle> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -372,7 +372,7 @@
 <http://example.org/resource/praia/15036_Esmelle> <http://example.org/def/gamere#nomePraia> "Esmelle" .
 <http://example.org/resource/praia/15036_Esmelle> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15036> .
 <http://example.org/resource/praia/15036_Esmelle> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15036_Esmelle> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=265393177"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15036_Esmelle> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=265393177> .
 <http://example.org/resource/praia/15036_Esmelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15036_Esmelle> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121842> .
 <http://example.org/resource/praia/15036_Fragata> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -381,7 +381,7 @@
 <http://example.org/resource/praia/15036_Fragata> <http://example.org/def/gamere#nomePraia> "Fragata" .
 <http://example.org/resource/praia/15036_Fragata> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15036> .
 <http://example.org/resource/praia/15036_Fragata> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15036_Fragata> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10216"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15036_Fragata> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10216> .
 <http://example.org/resource/praia/15036_Fragata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15036_Fragata> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121841> .
 <http://example.org/resource/praia/15036_San%20Xurxo> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -390,7 +390,7 @@
 <http://example.org/resource/praia/15036_San%20Xurxo> <http://example.org/def/gamere#nomePraia> "San Xurxo" .
 <http://example.org/resource/praia/15036_San%20Xurxo> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15036> .
 <http://example.org/resource/praia/15036_San%20Xurxo> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15036_San%20Xurxo> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10111"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15036_San%20Xurxo> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10111> .
 <http://example.org/resource/praia/15036_San%20Xurxo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15036_San%20Xurxo> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121843> .
 <http://example.org/resource/praia/15041_Salseira%20de%20Caracoleiro> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -399,7 +399,7 @@
 <http://example.org/resource/praia/15041_Salseira%20de%20Caracoleiro> <http://example.org/def/gamere#nomePraia> "Salseira de Caracoleiro" .
 <http://example.org/resource/praia/15041_Salseira%20de%20Caracoleiro> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15041> .
 <http://example.org/resource/praia/15041_Salseira%20de%20Caracoleiro> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15041_Salseira%20de%20Caracoleiro> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=11438"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15041_Salseira%20de%20Caracoleiro> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=11438> .
 <http://example.org/resource/praia/15041_Salseira%20de%20Caracoleiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15041_Salseira%20de%20Caracoleiro> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121860> .
 <http://example.org/resource/praia/15048_Perbes> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -408,7 +408,7 @@
 <http://example.org/resource/praia/15048_Perbes> <http://example.org/def/gamere#nomePraia> "Perbes" .
 <http://example.org/resource/praia/15048_Perbes> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15048> .
 <http://example.org/resource/praia/15048_Perbes> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15048_Perbes> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso/-/detalle/10117/perbes"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15048_Perbes> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso/-/detalle/10117/perbes> .
 <http://example.org/resource/praia/15048_Perbes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15048_Perbes> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121893> .
 <http://example.org/resource/praia/15058_A%20Aguieira> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -417,7 +417,7 @@
 <http://example.org/resource/praia/15058_A%20Aguieira> <http://example.org/def/gamere#nomePraia> "A Aguieira" .
 <http://example.org/resource/praia/15058_A%20Aguieira> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15058> .
 <http://example.org/resource/praia/15058_A%20Aguieira> <http://example.org/def/gamere#tipoArena> "Cantos rodados" .
-<http://example.org/resource/praia/15058_A%20Aguieira> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=11434"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15058_A%20Aguieira> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=11434> .
 <http://example.org/resource/praia/15058_A%20Aguieira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15058_A%20Aguieira> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20545069> .
 <http://example.org/resource/praia/15058_Beach%20of%20Bastiagueiro> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -426,7 +426,7 @@
 <http://example.org/resource/praia/15058_Beach%20of%20Bastiagueiro> <http://example.org/def/gamere#nomePraia> "Beach of Bastiagueiro" .
 <http://example.org/resource/praia/15058_Beach%20of%20Bastiagueiro> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15058> .
 <http://example.org/resource/praia/15058_Beach%20of%20Bastiagueiro> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15058_Beach%20of%20Bastiagueiro> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10258"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15058_Beach%20of%20Bastiagueiro> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10258> .
 <http://example.org/resource/praia/15058_Beach%20of%20Bastiagueiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15058_Beach%20of%20Bastiagueiro> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12398074> .
 <http://example.org/resource/praia/15058_Beach%20of%20Santa%20Cristina> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -435,7 +435,7 @@
 <http://example.org/resource/praia/15058_Beach%20of%20Santa%20Cristina> <http://example.org/def/gamere#nomePraia> "Beach of Santa Cristina" .
 <http://example.org/resource/praia/15058_Beach%20of%20Santa%20Cristina> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15058> .
 <http://example.org/resource/praia/15058_Beach%20of%20Santa%20Cristina> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15058_Beach%20of%20Santa%20Cristina> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9877"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15058_Beach%20of%20Santa%20Cristina> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9877> .
 <http://example.org/resource/praia/15058_Beach%20of%20Santa%20Cristina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15058_Beach%20of%20Santa%20Cristina> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12398093> .
 <http://example.org/resource/praia/15058_Mera> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -444,7 +444,7 @@
 <http://example.org/resource/praia/15058_Mera> <http://example.org/def/gamere#nomePraia> "Mera" .
 <http://example.org/resource/praia/15058_Mera> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15058> .
 <http://example.org/resource/praia/15058_Mera> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15058_Mera> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10254"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15058_Mera> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10254> .
 <http://example.org/resource/praia/15058_Mera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15058_Mera> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12398083> .
 <http://example.org/resource/praia/15058_Q28121966> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -453,7 +453,7 @@
 <http://example.org/resource/praia/15058_Q28121966> <http://example.org/def/gamere#nomePraia> "Q28121966" .
 <http://example.org/resource/praia/15058_Q28121966> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15058> .
 <http://example.org/resource/praia/15058_Q28121966> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15058_Q28121966> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=265406054"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15058_Q28121966> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=265406054> .
 <http://example.org/resource/praia/15058_Q28121966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15058_Q28121966> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121966> .
 <http://example.org/resource/praia/15068_Balar%C3%A9s> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -462,7 +462,7 @@
 <http://example.org/resource/praia/15068_Balar%C3%A9s> <http://example.org/def/gamere#nomePraia> "Balarés" .
 <http://example.org/resource/praia/15068_Balar%C3%A9s> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15068> .
 <http://example.org/resource/praia/15068_Balar%C3%A9s> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15068_Balar%C3%A9s> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso/-/detalle/11448/balares"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15068_Balar%C3%A9s> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso/-/detalle/11448/balares> .
 <http://example.org/resource/praia/15068_Balar%C3%A9s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15068_Balar%C3%A9s> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122018> .
 <http://example.org/resource/praia/15068_Ermida> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -471,7 +471,7 @@
 <http://example.org/resource/praia/15068_Ermida> <http://example.org/def/gamere#nomePraia> "Ermida" .
 <http://example.org/resource/praia/15068_Ermida> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15068> .
 <http://example.org/resource/praia/15068_Ermida> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15068_Ermida> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso/-/detalle/10286/ermida"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15068_Ermida> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso/-/detalle/10286/ermida> .
 <http://example.org/resource/praia/15068_Ermida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15068_Ermida> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122017> .
 <http://example.org/resource/praia/15068_Osmo> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -480,7 +480,7 @@
 <http://example.org/resource/praia/15068_Osmo> <http://example.org/def/gamere#nomePraia> "Osmo" .
 <http://example.org/resource/praia/15068_Osmo> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15068> .
 <http://example.org/resource/praia/15068_Osmo> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15068_Osmo> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso/-/detalle/10284/osmo"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15068_Osmo> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso/-/detalle/10284/osmo> .
 <http://example.org/resource/praia/15068_Osmo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15068_Osmo> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122016> .
 <http://example.org/resource/praia/15113_Maior%20de%20Malpica> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -489,7 +489,7 @@
 <http://example.org/resource/praia/15113_Maior%20de%20Malpica> <http://example.org/def/gamere#nomePraia> "Maior de Malpica" .
 <http://example.org/resource/praia/15113_Maior%20de%20Malpica> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15113> .
 <http://example.org/resource/praia/15113_Maior%20de%20Malpica> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15113_Maior%20de%20Malpica> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/11447/area-maior"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15113_Maior%20de%20Malpica> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/11447/area-maior> .
 <http://example.org/resource/praia/15113_Maior%20de%20Malpica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15113_Maior%20de%20Malpica> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121685> .
 <http://example.org/resource/praia/15117_Laxe> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -498,7 +498,7 @@
 <http://example.org/resource/praia/15117_Laxe> <http://example.org/def/gamere#nomePraia> "Laxe" .
 <http://example.org/resource/praia/15117_Laxe> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15117> .
 <http://example.org/resource/praia/15117_Laxe> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15117_Laxe> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9867"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15117_Laxe> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9867> .
 <http://example.org/resource/praia/15117_Laxe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15117_Laxe> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121874> .
 <http://example.org/resource/praia/15143_Suevos> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -507,7 +507,7 @@
 <http://example.org/resource/praia/15143_Suevos> <http://example.org/def/gamere#nomePraia> "Suevos" .
 <http://example.org/resource/praia/15143_Suevos> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15143> .
 <http://example.org/resource/praia/15143_Suevos> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15143_Suevos> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/268643064/area-grande-suevos"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15143_Suevos> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/268643064/area-grande-suevos> .
 <http://example.org/resource/praia/15143_Suevos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15143_Suevos> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121617> .
 <http://example.org/resource/praia/15250_San%20Francisco> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -516,7 +516,7 @@
 <http://example.org/resource/praia/15250_San%20Francisco> <http://example.org/def/gamere#nomePraia> "San Francisco" .
 <http://example.org/resource/praia/15250_San%20Francisco> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15250> .
 <http://example.org/resource/praia/15250_San%20Francisco> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15250_San%20Francisco> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10128"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15250_San%20Francisco> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10128> .
 <http://example.org/resource/praia/15250_San%20Francisco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15250_San%20Francisco> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121907> .
 <http://example.org/resource/praia/15320_As%20Pontes%20Lake> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -525,7 +525,7 @@
 <http://example.org/resource/praia/15320_As%20Pontes%20Lake> <http://example.org/def/gamere#nomePraia> "As Pontes Lake" .
 <http://example.org/resource/praia/15320_As%20Pontes%20Lake> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15320> .
 <http://example.org/resource/praia/15320_As%20Pontes%20Lake> <http://example.org/def/gamere#tipoArena> "Grosa" .
-<http://example.org/resource/praia/15320_As%20Pontes%20Lake> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/220620000208/praia-do-lago-das-pontes"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15320_As%20Pontes%20Lake> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/220620000208/praia-do-lago-das-pontes> .
 <http://example.org/resource/praia/15320_As%20Pontes%20Lake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15320_As%20Pontes%20Lake> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q4802948> .
 <http://example.org/resource/praia/15406_Caranza> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -534,7 +534,7 @@
 <http://example.org/resource/praia/15406_Caranza> <http://example.org/def/gamere#nomePraia> "Caranza" .
 <http://example.org/resource/praia/15406_Caranza> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15406> .
 <http://example.org/resource/praia/15406_Caranza> <http://example.org/def/gamere#tipoArena> "Grosa" .
-<http://example.org/resource/praia/15406_Caranza> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/10225/caranza"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15406_Caranza> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/10225/caranza> .
 <http://example.org/resource/praia/15406_Caranza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15406_Caranza> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121455> .
 <http://example.org/resource/praia/15630_Fariones%20Playa> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -543,7 +543,7 @@
 <http://example.org/resource/praia/15630_Fariones%20Playa> <http://example.org/def/gamere#nomePraia> "Fariones Playa" .
 <http://example.org/resource/praia/15630_Fariones%20Playa> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15630> .
 <http://example.org/resource/praia/15630_Fariones%20Playa> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15630_Fariones%20Playa> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/10119/grande-de-mino"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15630_Fariones%20Playa> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/10119/grande-de-mino> .
 <http://example.org/resource/praia/15630_Fariones%20Playa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15630_Fariones%20Playa> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24023700> .
 <http://example.org/resource/praia/15630_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -552,7 +552,7 @@
 <http://example.org/resource/praia/15630_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#nomePraia> "Pequeña de Miño" .
 <http://example.org/resource/praia/15630_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15630> .
 <http://example.org/resource/praia/15630_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15630_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/10242/pequena-de-mino-a-ribeira"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15630_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/10242/pequena-de-mino-a-ribeira> .
 <http://example.org/resource/praia/15630_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15630_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121898> .
 <http://example.org/resource/praia/15940_Lombi%C3%B1a> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -561,7 +561,7 @@
 <http://example.org/resource/praia/15940_Lombi%C3%B1a> <http://example.org/def/gamere#nomePraia> "Lombiña" .
 <http://example.org/resource/praia/15940_Lombi%C3%B1a> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/15940> .
 <http://example.org/resource/praia/15940_Lombi%C3%B1a> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/15940_Lombi%C3%B1a> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/9914/cabio-lombina"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/15940_Lombi%C3%B1a> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/9914/cabio-lombina> .
 <http://example.org/resource/praia/15940_Lombi%C3%B1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/15940_Lombi%C3%B1a> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121679> .
 <http://example.org/resource/praia/27005_San%20Pedro> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -570,7 +570,7 @@
 <http://example.org/resource/praia/27005_San%20Pedro> <http://example.org/def/gamere#nomePraia> "San Pedro" .
 <http://example.org/resource/praia/27005_San%20Pedro> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27005> .
 <http://example.org/resource/praia/27005_San%20Pedro> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27005_San%20Pedro> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10157"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27005_San%20Pedro> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10157> .
 <http://example.org/resource/praia/27005_San%20Pedro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27005_San%20Pedro> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122190> .
 <http://example.org/resource/praia/27013_O%20Torno> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -579,7 +579,7 @@
 <http://example.org/resource/praia/27013_O%20Torno> <http://example.org/def/gamere#nomePraia> "O Torno" .
 <http://example.org/resource/praia/27013_O%20Torno> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27013> .
 <http://example.org/resource/praia/27013_O%20Torno> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27013_O%20Torno> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10174"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27013_O%20Torno> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10174> .
 <http://example.org/resource/praia/27013_O%20Torno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27013_O%20Torno> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122231> .
 <http://example.org/resource/praia/27019_A%20Rapadoira> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -588,7 +588,7 @@
 <http://example.org/resource/praia/27019_A%20Rapadoira> <http://example.org/def/gamere#nomePraia> "A Rapadoira" .
 <http://example.org/resource/praia/27019_A%20Rapadoira> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27019> .
 <http://example.org/resource/praia/27019_A%20Rapadoira> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27019_A%20Rapadoira> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso?cod_rec=9833"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27019_A%20Rapadoira> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso?cod_rec=9833> .
 <http://example.org/resource/praia/27019_A%20Rapadoira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27019_A%20Rapadoira> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122198> .
 <http://example.org/resource/praia/27019_Area%20da%20Fame> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -597,7 +597,7 @@
 <http://example.org/resource/praia/27019_Area%20da%20Fame> <http://example.org/def/gamere#nomePraia> "Area da Fame" .
 <http://example.org/resource/praia/27019_Area%20da%20Fame> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27019> .
 <http://example.org/resource/praia/27019_Area%20da%20Fame> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27019_Area%20da%20Fame> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10163"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27019_Area%20da%20Fame> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10163> .
 <http://example.org/resource/praia/27019_Area%20da%20Fame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27019_Area%20da%20Fame> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122206> .
 <http://example.org/resource/praia/27019_Areoura> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -606,7 +606,7 @@
 <http://example.org/resource/praia/27019_Areoura> <http://example.org/def/gamere#nomePraia> "Areoura" .
 <http://example.org/resource/praia/27019_Areoura> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27019> .
 <http://example.org/resource/praia/27019_Areoura> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27019_Areoura> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso?cod_rec=11411"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27019_Areoura> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso?cod_rec=11411> .
 <http://example.org/resource/praia/27019_Areoura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27019_Areoura> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122216> .
 <http://example.org/resource/praia/27019_Llas> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -615,7 +615,7 @@
 <http://example.org/resource/praia/27019_Llas> <http://example.org/def/gamere#nomePraia> "Llas" .
 <http://example.org/resource/praia/27019_Llas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27019> .
 <http://example.org/resource/praia/27019_Llas> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27019_Llas> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9836"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27019_Llas> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9836> .
 <http://example.org/resource/praia/27019_Llas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27019_Llas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q9060688> .
 <http://example.org/resource/praia/27019_Peiz%C3%A1s> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -624,7 +624,7 @@
 <http://example.org/resource/praia/27019_Peiz%C3%A1s> <http://example.org/def/gamere#nomePraia> "Peizás" .
 <http://example.org/resource/praia/27019_Peiz%C3%A1s> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27019> .
 <http://example.org/resource/praia/27019_Peiz%C3%A1s> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27019_Peiz%C3%A1s> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10161"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27019_Peiz%C3%A1s> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10161> .
 <http://example.org/resource/praia/27019_Peiz%C3%A1s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27019_Peiz%C3%A1s> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122200> .
 <http://example.org/resource/praia/27025_Beach%20of%20Esteiro%2C%20Xuances> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -633,14 +633,14 @@
 <http://example.org/resource/praia/27025_Beach%20of%20Esteiro%2C%20Xuances> <http://example.org/def/gamere#nomePraia> "Beach of Esteiro, Xuances" .
 <http://example.org/resource/praia/27025_Beach%20of%20Esteiro%2C%20Xuances> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27025> .
 <http://example.org/resource/praia/27025_Beach%20of%20Esteiro%2C%20Xuances> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27025_Beach%20of%20Esteiro%2C%20Xuances> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10148"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27025_Beach%20of%20Esteiro%2C%20Xuances> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10148> .
 <http://example.org/resource/praia/27025_Beach%20of%20Esteiro%2C%20Xuances> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27025_Beach%20of%20Esteiro%2C%20Xuances> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122238> .
 <http://example.org/resource/praia/27051_As%20Catedrais%20beach> <http://example.org/def/gamere#entorno> "Monumento Natural: 28,94 ha, das cales 20 ha son augas mariñas. LIC: 304,36 ha" .
 <http://example.org/resource/praia/27051_As%20Catedrais%20beach> <http://example.org/def/gamere#estaEn> <http://example.org/resource/ubicacion/43.554221_-7.155308> .
 <http://example.org/resource/praia/27051_As%20Catedrais%20beach> <http://example.org/def/gamere#nomePraia> "As Catedrais beach" .
 <http://example.org/resource/praia/27051_As%20Catedrais%20beach> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27051> .
-<http://example.org/resource/praia/27051_As%20Catedrais%20beach> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=32008"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27051_As%20Catedrais%20beach> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=32008> .
 <http://example.org/resource/praia/27051_As%20Catedrais%20beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27051_As%20Catedrais%20beach> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2561808> .
 <http://example.org/resource/praia/27051_Os%20Castros> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -649,7 +649,7 @@
 <http://example.org/resource/praia/27051_Os%20Castros> <http://example.org/def/gamere#nomePraia> "Os Castros" .
 <http://example.org/resource/praia/27051_Os%20Castros> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27051> .
 <http://example.org/resource/praia/27051_Os%20Castros> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27051_Os%20Castros> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9823"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27051_Os%20Castros> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9823> .
 <http://example.org/resource/praia/27051_Os%20Castros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27051_Os%20Castros> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122005> .
 <http://example.org/resource/praia/27064_Abrela> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -658,7 +658,7 @@
 <http://example.org/resource/praia/27064_Abrela> <http://example.org/def/gamere#nomePraia> "Abrela" .
 <http://example.org/resource/praia/27064_Abrela> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27064> .
 <http://example.org/resource/praia/27064_Abrela> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27064_Abrela> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/9853"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27064_Abrela> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/9853> .
 <http://example.org/resource/praia/27064_Abrela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27064_Abrela> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122144> .
 <http://example.org/resource/praia/27064_Xilloi> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -667,7 +667,7 @@
 <http://example.org/resource/praia/27064_Xilloi> <http://example.org/def/gamere#nomePraia> "Xilloi" .
 <http://example.org/resource/praia/27064_Xilloi> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27064> .
 <http://example.org/resource/praia/27064_Xilloi> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27064_Xilloi> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9852"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27064_Xilloi> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9852> .
 <http://example.org/resource/praia/27064_Xilloi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27064_Xilloi> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122158> .
 <http://example.org/resource/praia/27066_Beach%20of%20Area> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -676,7 +676,7 @@
 <http://example.org/resource/praia/27066_Beach%20of%20Area> <http://example.org/def/gamere#nomePraia> "Beach of Area" .
 <http://example.org/resource/praia/27066_Beach%20of%20Area> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27066> .
 <http://example.org/resource/praia/27066_Beach%20of%20Area> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27066_Beach%20of%20Area> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10146"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27066_Beach%20of%20Area> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10146> .
 <http://example.org/resource/praia/27066_Beach%20of%20Area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27066_Beach%20of%20Area> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6078571> .
 <http://example.org/resource/praia/27792_Fontela> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -685,7 +685,7 @@
 <http://example.org/resource/praia/27792_Fontela> <http://example.org/def/gamere#nomePraia> "Fontela" .
 <http://example.org/resource/praia/27792_Fontela> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27792> .
 <http://example.org/resource/praia/27792_Fontela> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27792_Fontela> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/9830/fontela-balea"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27792_Fontela> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/9830/fontela-balea> .
 <http://example.org/resource/praia/27792_Fontela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27792_Fontela> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122189> .
 <http://example.org/resource/praia/27902_Marosa> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -694,7 +694,7 @@
 <http://example.org/resource/praia/27902_Marosa> <http://example.org/def/gamere#nomePraia> "Marosa" .
 <http://example.org/resource/praia/27902_Marosa> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27902> .
 <http://example.org/resource/praia/27902_Marosa> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27902_Marosa> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9841"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27902_Marosa> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9841> .
 <http://example.org/resource/praia/27902_Marosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27902_Marosa> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122225> .
 <http://example.org/resource/praia/27902_Portelo> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -703,7 +703,7 @@
 <http://example.org/resource/praia/27902_Portelo> <http://example.org/def/gamere#nomePraia> "Portelo" .
 <http://example.org/resource/praia/27902_Portelo> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/27902> .
 <http://example.org/resource/praia/27902_Portelo> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/27902_Portelo> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10169"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/27902_Portelo> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10169> .
 <http://example.org/resource/praia/27902_Portelo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/27902_Portelo> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119618> .
 <http://example.org/resource/praia/36004_Area%20de%20Bon> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -712,7 +712,7 @@
 <http://example.org/resource/praia/36004_Area%20de%20Bon> <http://example.org/def/gamere#nomePraia> "Area de Bon" .
 <http://example.org/resource/praia/36004_Area%20de%20Bon> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36004> .
 <http://example.org/resource/praia/36004_Area%20de%20Bon> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36004_Area%20de%20Bon> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10464"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36004_Area%20de%20Bon> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10464> .
 <http://example.org/resource/praia/36004_Area%20de%20Bon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36004_Area%20de%20Bon> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119957> .
 <http://example.org/resource/praia/36004_Lagos> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -721,7 +721,7 @@
 <http://example.org/resource/praia/36004_Lagos> <http://example.org/def/gamere#nomePraia> "Lagos" .
 <http://example.org/resource/praia/36004_Lagos> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36004> .
 <http://example.org/resource/praia/36004_Lagos> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36004_Lagos> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10135"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36004_Lagos> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10135> .
 <http://example.org/resource/praia/36004_Lagos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36004_Lagos> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119956> .
 <http://example.org/resource/praia/36004_Lapam%C3%A1n%20Beach> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -730,7 +730,7 @@
 <http://example.org/resource/praia/36004_Lapam%C3%A1n%20Beach> <http://example.org/def/gamere#nomePraia> "Lapamán Beach" .
 <http://example.org/resource/praia/36004_Lapam%C3%A1n%20Beach> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36004> .
 <http://example.org/resource/praia/36004_Lapam%C3%A1n%20Beach> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36004_Lapam%C3%A1n%20Beach> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=11370"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36004_Lapam%C3%A1n%20Beach> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=11370> .
 <http://example.org/resource/praia/36004_Lapam%C3%A1n%20Beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36004_Lapam%C3%A1n%20Beach> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q9060675> .
 <http://example.org/resource/praia/36004_Portomaior> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -739,7 +739,7 @@
 <http://example.org/resource/praia/36004_Portomaior> <http://example.org/def/gamere#nomePraia> "Portomaior" .
 <http://example.org/resource/praia/36004_Portomaior> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36004> .
 <http://example.org/resource/praia/36004_Portomaior> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36004_Portomaior> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10132"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36004_Portomaior> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10132> .
 <http://example.org/resource/praia/36004_Portomaior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36004_Portomaior> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119828> .
 <http://example.org/resource/praia/36023_Area%20Grande> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -748,7 +748,7 @@
 <http://example.org/resource/praia/36023_Area%20Grande> <http://example.org/def/gamere#nomePraia> "Area Grande" .
 <http://example.org/resource/praia/36023_Area%20Grande> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36023> .
 <http://example.org/resource/praia/36023_Area%20Grande> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36023_Area%20Grande> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10526"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36023_Area%20Grande> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10526> .
 <http://example.org/resource/praia/36023_Area%20Grande> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36023_Area%20Grande> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28120073> .
 <http://example.org/resource/praia/36023_O%20Mu%C3%AD%C3%B1o> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -757,7 +757,7 @@
 <http://example.org/resource/praia/36023_O%20Mu%C3%AD%C3%B1o> <http://example.org/def/gamere#nomePraia> "O Muíño" .
 <http://example.org/resource/praia/36023_O%20Mu%C3%AD%C3%B1o> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36023> .
 <http://example.org/resource/praia/36023_O%20Mu%C3%AD%C3%B1o> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36023_O%20Mu%C3%AD%C3%B1o> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10529"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36023_O%20Mu%C3%AD%C3%B1o> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10529> .
 <http://example.org/resource/praia/36023_O%20Mu%C3%AD%C3%B1o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36023_O%20Mu%C3%AD%C3%B1o> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28120087> .
 <http://example.org/resource/praia/36026_A%20Covi%C3%B1a> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -766,7 +766,7 @@
 <http://example.org/resource/praia/36026_A%20Covi%C3%B1a> <http://example.org/def/gamere#nomePraia> "A Coviña" .
 <http://example.org/resource/praia/36026_A%20Covi%C3%B1a> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36026> .
 <http://example.org/resource/praia/36026_A%20Covi%C3%B1a> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36026_A%20Covi%C3%B1a> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10454"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36026_A%20Covi%C3%B1a> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10454> .
 <http://example.org/resource/praia/36026_A%20Covi%C3%B1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36026_A%20Covi%C3%B1a> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28116185> .
 <http://example.org/resource/praia/36026_Aguete%20Beach> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -775,7 +775,7 @@
 <http://example.org/resource/praia/36026_Aguete%20Beach> <http://example.org/def/gamere#nomePraia> "Aguete Beach" .
 <http://example.org/resource/praia/36026_Aguete%20Beach> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36026> .
 <http://example.org/resource/praia/36026_Aguete%20Beach> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36026_Aguete%20Beach> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10140"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36026_Aguete%20Beach> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10140> .
 <http://example.org/resource/praia/36026_Aguete%20Beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36026_Aguete%20Beach> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119934> .
 <http://example.org/resource/praia/36026_Mogor> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -784,7 +784,7 @@
 <http://example.org/resource/praia/36026_Mogor> <http://example.org/def/gamere#nomePraia> "Mogor" .
 <http://example.org/resource/praia/36026_Mogor> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36026> .
 <http://example.org/resource/praia/36026_Mogor> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36026_Mogor> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10139"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36026_Mogor> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10139> .
 <http://example.org/resource/praia/36026_Mogor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36026_Mogor> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119933> .
 <http://example.org/resource/praia/36026_Portocelo%20Beach> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -793,7 +793,7 @@
 <http://example.org/resource/praia/36026_Portocelo%20Beach> <http://example.org/def/gamere#nomePraia> "Portocelo Beach" .
 <http://example.org/resource/praia/36026_Portocelo%20Beach> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36026> .
 <http://example.org/resource/praia/36026_Portocelo%20Beach> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36026_Portocelo%20Beach> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10138"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36026_Portocelo%20Beach> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10138> .
 <http://example.org/resource/praia/36026_Portocelo%20Beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36026_Portocelo%20Beach> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119932> .
 <http://example.org/resource/praia/36029_O%20Con> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -802,7 +802,7 @@
 <http://example.org/resource/praia/36029_O%20Con> <http://example.org/def/gamere#nomePraia> "O Con" .
 <http://example.org/resource/praia/36029_O%20Con> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36029> .
 <http://example.org/resource/praia/36029_O%20Con> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36029_O%20Con> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10143"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36029_O%20Con> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10143> .
 <http://example.org/resource/praia/36029_O%20Con> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36029_O%20Con> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122317> .
 <http://example.org/resource/praia/36041_Cabeceira%20Beach> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -811,13 +811,13 @@
 <http://example.org/resource/praia/36041_Cabeceira%20Beach> <http://example.org/def/gamere#nomePraia> "Cabeceira Beach" .
 <http://example.org/resource/praia/36041_Cabeceira%20Beach> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36041> .
 <http://example.org/resource/praia/36041_Cabeceira%20Beach> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36041_Cabeceira%20Beach> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9796"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36041_Cabeceira%20Beach> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9796> .
 <http://example.org/resource/praia/36041_Cabeceira%20Beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36041_Cabeceira%20Beach> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119930> .
 <http://example.org/resource/praia/36043_Ponte%20Caldelas> <http://example.org/def/gamere#estaEn> <http://example.org/resource/ubicacion/42.39131_-8.491745> .
 <http://example.org/resource/praia/36043_Ponte%20Caldelas> <http://example.org/def/gamere#nomePraia> "Ponte Caldelas" .
 <http://example.org/resource/praia/36043_Ponte%20Caldelas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36043> .
-<http://example.org/resource/praia/36043_Ponte%20Caldelas> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso?cod_rec=210518000500"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36043_Ponte%20Caldelas> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso?cod_rec=210518000500> .
 <http://example.org/resource/praia/36043_Ponte%20Caldelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36043_Ponte%20Caldelas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12397853> .
 <http://example.org/resource/praia/36051_A%20Lanzada> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -826,7 +826,7 @@
 <http://example.org/resource/praia/36051_A%20Lanzada> <http://example.org/def/gamere#nomePraia> "A Lanzada" .
 <http://example.org/resource/praia/36051_A%20Lanzada> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_A%20Lanzada> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_A%20Lanzada> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=11362"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_A%20Lanzada> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=11362> .
 <http://example.org/resource/praia/36051_A%20Lanzada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_A%20Lanzada> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20548158> .
 <http://example.org/resource/praia/36051_Agra> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -835,7 +835,7 @@
 <http://example.org/resource/praia/36051_Agra> <http://example.org/def/gamere#nomePraia> "Agra" .
 <http://example.org/resource/praia/36051_Agra> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Agra> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Agra> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9771"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Agra> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9771> .
 <http://example.org/resource/praia/36051_Agra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Agra> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119911> .
 <http://example.org/resource/praia/36051_Areas%20Beach> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -844,7 +844,7 @@
 <http://example.org/resource/praia/36051_Areas%20Beach> <http://example.org/def/gamere#nomePraia> "Areas Beach" .
 <http://example.org/resource/praia/36051_Areas%20Beach> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Areas%20Beach> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Areas%20Beach> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso?cod_rec=9767"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Areas%20Beach> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso?cod_rec=9767> .
 <http://example.org/resource/praia/36051_Areas%20Beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Areas%20Beach> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6078573> .
 <http://example.org/resource/praia/36051_Areas%20Gordas> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -853,7 +853,7 @@
 <http://example.org/resource/praia/36051_Areas%20Gordas> <http://example.org/def/gamere#nomePraia> "Areas Gordas" .
 <http://example.org/resource/praia/36051_Areas%20Gordas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Areas%20Gordas> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Areas%20Gordas> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9746"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Areas%20Gordas> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9746> .
 <http://example.org/resource/praia/36051_Areas%20Gordas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Areas%20Gordas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24023257> .
 <http://example.org/resource/praia/36051_Bascuas> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -862,7 +862,7 @@
 <http://example.org/resource/praia/36051_Bascuas> <http://example.org/def/gamere#nomePraia> "Bascuas" .
 <http://example.org/resource/praia/36051_Bascuas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Bascuas> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Bascuas> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9750"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Bascuas> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9750> .
 <http://example.org/resource/praia/36051_Bascuas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Bascuas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6078602> .
 <http://example.org/resource/praia/36051_Beach%20of%20A%20Lanzada> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -871,7 +871,7 @@
 <http://example.org/resource/praia/36051_Beach%20of%20A%20Lanzada> <http://example.org/def/gamere#nomePraia> "Beach of A Lanzada" .
 <http://example.org/resource/praia/36051_Beach%20of%20A%20Lanzada> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Beach%20of%20A%20Lanzada> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Beach%20of%20A%20Lanzada> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9739"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Beach%20of%20A%20Lanzada> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9739> .
 <http://example.org/resource/praia/36051_Beach%20of%20A%20Lanzada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Beach%20of%20A%20Lanzada> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3398218> .
 <http://example.org/resource/praia/36051_Canelas> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -880,7 +880,7 @@
 <http://example.org/resource/praia/36051_Canelas> <http://example.org/def/gamere#nomePraia> "Canelas" .
 <http://example.org/resource/praia/36051_Canelas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Canelas> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Canelas> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9754"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Canelas> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9754> .
 <http://example.org/resource/praia/36051_Canelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Canelas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119873> .
 <http://example.org/resource/praia/36051_Caneli%C3%B1as> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -889,7 +889,7 @@
 <http://example.org/resource/praia/36051_Caneli%C3%B1as> <http://example.org/def/gamere#nomePraia> "Caneliñas" .
 <http://example.org/resource/praia/36051_Caneli%C3%B1as> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Caneli%C3%B1as> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Caneli%C3%B1as> <http://example.org/def/gamere#url> "http://www.turismo.gal/recurso?cod_rec=9755"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Caneli%C3%B1as> <http://example.org/def/gamere#url> <http://www.turismo.gal/recurso?cod_rec=9755> .
 <http://example.org/resource/praia/36051_Caneli%C3%B1as> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Caneli%C3%B1as> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12398075> .
 <http://example.org/resource/praia/36051_Foxos> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -898,7 +898,7 @@
 <http://example.org/resource/praia/36051_Foxos> <http://example.org/def/gamere#nomePraia> "Foxos" .
 <http://example.org/resource/praia/36051_Foxos> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Foxos> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Foxos> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9748"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Foxos> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9748> .
 <http://example.org/resource/praia/36051_Foxos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Foxos> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119890> .
 <http://example.org/resource/praia/36051_Lapa> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -907,7 +907,7 @@
 <http://example.org/resource/praia/36051_Lapa> <http://example.org/def/gamere#nomePraia> "Lapa" .
 <http://example.org/resource/praia/36051_Lapa> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Lapa> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Lapa> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9743"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Lapa> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9743> .
 <http://example.org/resource/praia/36051_Lapa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Lapa> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119886> .
 <http://example.org/resource/praia/36051_Major> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -916,7 +916,7 @@
 <http://example.org/resource/praia/36051_Major> <http://example.org/def/gamere#nomePraia> "Major" .
 <http://example.org/resource/praia/36051_Major> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Major> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Major> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9749"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Major> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9749> .
 <http://example.org/resource/praia/36051_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Major> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119893> .
 <http://example.org/resource/praia/36051_Montalvo%20Beach> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -925,7 +925,7 @@
 <http://example.org/resource/praia/36051_Montalvo%20Beach> <http://example.org/def/gamere#nomePraia> "Montalvo Beach" .
 <http://example.org/resource/praia/36051_Montalvo%20Beach> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Montalvo%20Beach> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Montalvo%20Beach> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9751"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Montalvo%20Beach> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9751> .
 <http://example.org/resource/praia/36051_Montalvo%20Beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Montalvo%20Beach> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6078910> .
 <http://example.org/resource/praia/36051_Paxari%C3%B1as> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -934,7 +934,7 @@
 <http://example.org/resource/praia/36051_Paxari%C3%B1as> <http://example.org/def/gamere#nomePraia> "Paxariñas" .
 <http://example.org/resource/praia/36051_Paxari%C3%B1as> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Paxari%C3%B1as> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Paxari%C3%B1as> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9753"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Paxari%C3%B1as> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9753> .
 <http://example.org/resource/praia/36051_Paxari%C3%B1as> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Paxari%C3%B1as> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12398088> .
 <http://example.org/resource/praia/36051_Playa%20del%20Silgar> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -943,7 +943,7 @@
 <http://example.org/resource/praia/36051_Playa%20del%20Silgar> <http://example.org/def/gamere#nomePraia> "Playa del Silgar" .
 <http://example.org/resource/praia/36051_Playa%20del%20Silgar> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Playa%20del%20Silgar> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Playa%20del%20Silgar> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9757"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Playa%20del%20Silgar> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9757> .
 <http://example.org/resource/praia/36051_Playa%20del%20Silgar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Playa%20del%20Silgar> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24019722> .
 <http://example.org/resource/praia/36051_Portonovo> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -952,7 +952,7 @@
 <http://example.org/resource/praia/36051_Portonovo> <http://example.org/def/gamere#nomePraia> "Portonovo" .
 <http://example.org/resource/praia/36051_Portonovo> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Portonovo> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Portonovo> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=9778"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Portonovo> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=9778> .
 <http://example.org/resource/praia/36051_Portonovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Portonovo> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6078596> .
 <http://example.org/resource/praia/36051_Pragueira> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -961,7 +961,7 @@
 <http://example.org/resource/praia/36051_Pragueira> <http://example.org/def/gamere#nomePraia> "Pragueira" .
 <http://example.org/resource/praia/36051_Pragueira> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Pragueira> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Pragueira> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10450"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Pragueira> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10450> .
 <http://example.org/resource/praia/36051_Pragueira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Pragueira> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119894> .
 <http://example.org/resource/praia/36051_Q6078544> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -970,7 +970,7 @@
 <http://example.org/resource/praia/36051_Q6078544> <http://example.org/def/gamere#nomePraia> "Q6078544" .
 <http://example.org/resource/praia/36051_Q6078544> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36051> .
 <http://example.org/resource/praia/36051_Q6078544> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36051_Q6078544> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso?cod_rec=9761"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36051_Q6078544> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso?cod_rec=9761> .
 <http://example.org/resource/praia/36051_Q6078544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36051_Q6078544> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6078544> .
 <http://example.org/resource/praia/36057_Arei%C3%B1o> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -979,7 +979,7 @@
 <http://example.org/resource/praia/36057_Arei%C3%B1o> <http://example.org/def/gamere#nomePraia> "Areiño" .
 <http://example.org/resource/praia/36057_Arei%C3%B1o> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Arei%C3%B1o> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Arei%C3%B1o> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=17431"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Arei%C3%B1o> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=17431> .
 <http://example.org/resource/praia/36057_Arei%C3%B1o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Arei%C3%B1o> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24003844> .
 <http://example.org/resource/praia/36057_Beach%20of%20Vao> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -988,7 +988,7 @@
 <http://example.org/resource/praia/36057_Beach%20of%20Vao> <http://example.org/def/gamere#nomePraia> "Beach of Vao" .
 <http://example.org/resource/praia/36057_Beach%20of%20Vao> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Beach%20of%20Vao> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Beach%20of%20Vao> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10126"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Beach%20of%20Vao> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10126> .
 <http://example.org/resource/praia/36057_Beach%20of%20Vao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Beach%20of%20Vao> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6448405> .
 <http://example.org/resource/praia/36057_Bouzas> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -997,7 +997,7 @@
 <http://example.org/resource/praia/36057_Bouzas> <http://example.org/def/gamere#nomePraia> "Bouzas" .
 <http://example.org/resource/praia/36057_Bouzas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Bouzas> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Bouzas> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/268730720/o-adro"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Bouzas> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/268730720/o-adro> .
 <http://example.org/resource/praia/36057_Bouzas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Bouzas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119383> .
 <http://example.org/resource/praia/36057_De%20Argazada> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1006,7 +1006,7 @@
 <http://example.org/resource/praia/36057_De%20Argazada> <http://example.org/def/gamere#nomePraia> "De Argazada" .
 <http://example.org/resource/praia/36057_De%20Argazada> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_De%20Argazada> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_De%20Argazada> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=30565"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_De%20Argazada> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=30565> .
 <http://example.org/resource/praia/36057_De%20Argazada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_De%20Argazada> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119389> .
 <http://example.org/resource/praia/36057_Os%20Mui%C3%B1os> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1015,7 +1015,7 @@
 <http://example.org/resource/praia/36057_Os%20Mui%C3%B1os> <http://example.org/def/gamere#nomePraia> "Os Muiños" .
 <http://example.org/resource/praia/36057_Os%20Mui%C3%B1os> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Os%20Mui%C3%B1os> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Os%20Mui%C3%B1os> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10514"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Os%20Mui%C3%B1os> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10514> .
 <http://example.org/resource/praia/36057_Os%20Mui%C3%B1os> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Os%20Mui%C3%B1os> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q23994789> .
 <http://example.org/resource/praia/36057_Playa%20de%20Rodas> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -1024,7 +1024,7 @@
 <http://example.org/resource/praia/36057_Playa%20de%20Rodas> <http://example.org/def/gamere#nomePraia> "Playa de Rodas" .
 <http://example.org/resource/praia/36057_Playa%20de%20Rodas> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Playa%20de%20Rodas> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Playa%20de%20Rodas> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10480"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Playa%20de%20Rodas> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10480> .
 <http://example.org/resource/praia/36057_Playa%20de%20Rodas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Playa%20de%20Rodas> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q23993081> .
 <http://example.org/resource/praia/36057_Praia%20Canido> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1033,7 +1033,7 @@
 <http://example.org/resource/praia/36057_Praia%20Canido> <http://example.org/def/gamere#nomePraia> "Praia Canido" .
 <http://example.org/resource/praia/36057_Praia%20Canido> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Praia%20Canido> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Praia%20Canido> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10127"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Praia%20Canido> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10127> .
 <http://example.org/resource/praia/36057_Praia%20Canido> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Praia%20Canido> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q24003868> .
 <http://example.org/resource/praia/36057_Praia%20de%20Carril> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1042,7 +1042,7 @@
 <http://example.org/resource/praia/36057_Praia%20de%20Carril> <http://example.org/def/gamere#nomePraia> "Praia de Carril" .
 <http://example.org/resource/praia/36057_Praia%20de%20Carril> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Praia%20de%20Carril> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Praia%20de%20Carril> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10502"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Praia%20de%20Carril> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10502> .
 <http://example.org/resource/praia/36057_Praia%20de%20Carril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Praia%20de%20Carril> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6078653> .
 <http://example.org/resource/praia/36057_Q28120018> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1051,7 +1051,7 @@
 <http://example.org/resource/praia/36057_Q28120018> <http://example.org/def/gamere#nomePraia> "Q28120018" .
 <http://example.org/resource/praia/36057_Q28120018> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Q28120018> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Q28120018> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10508"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Q28120018> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10508> .
 <http://example.org/resource/praia/36057_Q28120018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Q28120018> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28120018> .
 <http://example.org/resource/praia/36057_Q65897252> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1059,7 +1059,7 @@
 <http://example.org/resource/praia/36057_Q65897252> <http://example.org/def/gamere#nomePraia> "Q65897252" .
 <http://example.org/resource/praia/36057_Q65897252> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Q65897252> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Q65897252> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=30566"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Q65897252> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=30566> .
 <http://example.org/resource/praia/36057_Q65897252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Q65897252> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q65897252> .
 <http://example.org/resource/praia/36057_Q66547532> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1068,7 +1068,7 @@
 <http://example.org/resource/praia/36057_Q66547532> <http://example.org/def/gamere#nomePraia> "Q66547532" .
 <http://example.org/resource/praia/36057_Q66547532> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36057> .
 <http://example.org/resource/praia/36057_Q66547532> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36057_Q66547532> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/268730992/santa-baia"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36057_Q66547532> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/268730992/santa-baia> .
 <http://example.org/resource/praia/36057_Q66547532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36057_Q66547532> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q66547532> .
 <http://example.org/resource/praia/36060_Bamio> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1077,7 +1077,7 @@
 <http://example.org/resource/praia/36060_Bamio> <http://example.org/def/gamere#nomePraia> "Bamio" .
 <http://example.org/resource/praia/36060_Bamio> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36060> .
 <http://example.org/resource/praia/36060_Bamio> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36060_Bamio> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=11353"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36060_Bamio> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=11353> .
 <http://example.org/resource/praia/36060_Bamio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36060_Bamio> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28122324> .
 <http://example.org/resource/praia/36060_Compostela> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1086,7 +1086,7 @@
 <http://example.org/resource/praia/36060_Compostela> <http://example.org/def/gamere#nomePraia> "Compostela" .
 <http://example.org/resource/praia/36060_Compostela> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36060> .
 <http://example.org/resource/praia/36060_Compostela> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36060_Compostela> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10090"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36060_Compostela> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10090> .
 <http://example.org/resource/praia/36060_Compostela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36060_Compostela> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q9060660> .
 <http://example.org/resource/praia/36226_Mende> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1095,7 +1095,7 @@
 <http://example.org/resource/praia/36226_Mende> <http://example.org/def/gamere#nomePraia> "Mende" .
 <http://example.org/resource/praia/36226_Mende> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36226> .
 <http://example.org/resource/praia/36226_Mende> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36226_Mende> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso?cod_rec=268719741"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36226_Mende> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso?cod_rec=268719741> .
 <http://example.org/resource/praia/36226_Mende> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36226_Mende> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119361> .
 <http://example.org/resource/praia/36300_Barbeira> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1104,7 +1104,7 @@
 <http://example.org/resource/praia/36300_Barbeira> <http://example.org/def/gamere#nomePraia> "Barbeira" .
 <http://example.org/resource/praia/36300_Barbeira> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36300> .
 <http://example.org/resource/praia/36300_Barbeira> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36300_Barbeira> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10523"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36300_Barbeira> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10523> .
 <http://example.org/resource/praia/36300_Barbeira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36300_Barbeira> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20543479> .
 <http://example.org/resource/praia/36300_Concheira> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -1113,7 +1113,7 @@
 <http://example.org/resource/praia/36300_Concheira> <http://example.org/def/gamere#nomePraia> "Concheira" .
 <http://example.org/resource/praia/36300_Concheira> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36300> .
 <http://example.org/resource/praia/36300_Concheira> <http://example.org/def/gamere#tipoArena> "Grosa" .
-<http://example.org/resource/praia/36300_Concheira> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10525"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36300_Concheira> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10525> .
 <http://example.org/resource/praia/36300_Concheira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36300_Concheira> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20543488> .
 <http://example.org/resource/praia/36300_Os%20Frades> <http://example.org/def/gamere#entorno> "Praia aberta" .
@@ -1122,7 +1122,7 @@
 <http://example.org/resource/praia/36300_Os%20Frades> <http://example.org/def/gamere#nomePraia> "Os Frades" .
 <http://example.org/resource/praia/36300_Os%20Frades> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36300> .
 <http://example.org/resource/praia/36300_Os%20Frades> <http://example.org/def/gamere#tipoArena> "Grosa" .
-<http://example.org/resource/praia/36300_Os%20Frades> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10524"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36300_Os%20Frades> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10524> .
 <http://example.org/resource/praia/36300_Os%20Frades> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36300_Os%20Frades> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20543521> .
 <http://example.org/resource/praia/36300_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1131,7 +1131,7 @@
 <http://example.org/resource/praia/36300_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#nomePraia> "Pequeña de Miño" .
 <http://example.org/resource/praia/36300_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36300> .
 <http://example.org/resource/praia/36300_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36300_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10522"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36300_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10522> .
 <http://example.org/resource/praia/36300_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36300_Peque%C3%B1a%20de%20Mi%C3%B1o> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28121898> .
 <http://example.org/resource/praia/36308_Playa%20Marta> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1140,7 +1140,7 @@
 <http://example.org/resource/praia/36308_Playa%20Marta> <http://example.org/def/gamere#nomePraia> "Playa Marta" .
 <http://example.org/resource/praia/36308_Playa%20Marta> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36308> .
 <http://example.org/resource/praia/36308_Playa%20Marta> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36308_Playa%20Marta> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10521"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36308_Playa%20Marta> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10521> .
 <http://example.org/resource/praia/36308_Playa%20Marta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36308_Playa%20Marta> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20543497> .
 <http://example.org/resource/praia/36393_Praia%20Ladeira> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1149,7 +1149,7 @@
 <http://example.org/resource/praia/36393_Praia%20Ladeira> <http://example.org/def/gamere#nomePraia> "Praia Ladeira" .
 <http://example.org/resource/praia/36393_Praia%20Ladeira> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36393> .
 <http://example.org/resource/praia/36393_Praia%20Ladeira> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36393_Praia%20Ladeira> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/9807/ladeira"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36393_Praia%20Ladeira> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/9807/ladeira> .
 <http://example.org/resource/praia/36393_Praia%20Ladeira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36393_Praia%20Ladeira> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20543532> .
 <http://example.org/resource/praia/36901_Area%20da%20Secada> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1158,7 +1158,7 @@
 <http://example.org/resource/praia/36901_Area%20da%20Secada> <http://example.org/def/gamere#nomePraia> "Area da Secada" .
 <http://example.org/resource/praia/36901_Area%20da%20Secada> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36901> .
 <http://example.org/resource/praia/36901_Area%20da%20Secada> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36901_Area%20da%20Secada> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=10092"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36901_Area%20da%20Secada> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=10092> .
 <http://example.org/resource/praia/36901_Area%20da%20Secada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36901_Area%20da%20Secada> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12398070> .
 <http://example.org/resource/praia/36901_Camaxe> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1166,7 +1166,7 @@
 <http://example.org/resource/praia/36901_Camaxe> <http://example.org/def/gamere#nomePraia> "Camaxe" .
 <http://example.org/resource/praia/36901_Camaxe> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36901> .
 <http://example.org/resource/praia/36901_Camaxe> <http://example.org/def/gamere#tipoArena> "Grosa" .
-<http://example.org/resource/praia/36901_Camaxe> <http://example.org/def/gamere#url> "http://www.turismo.gal/ficha-recurso?cod_rec=258852417"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36901_Camaxe> <http://example.org/def/gamere#url> <http://www.turismo.gal/ficha-recurso?cod_rec=258852417> .
 <http://example.org/resource/praia/36901_Camaxe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36901_Camaxe> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119833> .
 <http://example.org/resource/praia/36992_Xiorto> <http://example.org/def/gamere#entorno> "Praia resgardada" .
@@ -1175,17 +1175,17 @@
 <http://example.org/resource/praia/36992_Xiorto> <http://example.org/def/gamere#nomePraia> "Xiorto" .
 <http://example.org/resource/praia/36992_Xiorto> <http://example.org/def/gamere#situadaEn> <http://example.org/resource/concello/36992> .
 <http://example.org/resource/praia/36992_Xiorto> <http://example.org/def/gamere#tipoArena> "Fina" .
-<http://example.org/resource/praia/36992_Xiorto> <http://example.org/def/gamere#url> "https://www.turismo.gal/recurso/-/detalle/9784/xiorto"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://example.org/resource/praia/36992_Xiorto> <http://example.org/def/gamere#url> <https://www.turismo.gal/recurso/-/detalle/9784/xiorto> .
 <http://example.org/resource/praia/36992_Xiorto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Praia> .
 <http://example.org/resource/praia/36992_Xiorto> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28119914> .
 <http://example.org/resource/provincia/15> <http://example.org/def/gamere#codigoProvincia> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://example.org/resource/provincia/15> <http://example.org/def/gamere#nameProvincia> "A Coruña" .
+<http://example.org/resource/provincia/15> <http://example.org/def/gamere#nameProvincia> "A Coruña Province" .
 <http://example.org/resource/provincia/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Provincia> .
-<http://example.org/resource/provincia/15> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q8757> .
+<http://example.org/resource/provincia/15> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q82119> .
 <http://example.org/resource/provincia/27> <http://example.org/def/gamere#codigoProvincia> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://example.org/resource/provincia/27> <http://example.org/def/gamere#nameProvincia> "Lugo" .
+<http://example.org/resource/provincia/27> <http://example.org/def/gamere#nameProvincia> "Lugo Province" .
 <http://example.org/resource/provincia/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Provincia> .
-<http://example.org/resource/provincia/27> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q11125> .
+<http://example.org/resource/provincia/27> <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q95027> .
 <http://example.org/resource/provincia/36> <http://example.org/def/gamere#codigoProvincia> "36"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://example.org/resource/provincia/36> <http://example.org/def/gamere#nameProvincia> "Pontevedra Province" .
 <http://example.org/resource/provincia/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/def/gamere#Provincia> .

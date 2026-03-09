@@ -1,0 +1,235 @@
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://vocab.linkeddata.es/ontology/report#numberVocabsWarning>
+        a       owl:DatatypeProperty .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA02RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab data02.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#DATA02.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#entrySubject>
+        a       rdf:Property .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA04RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab data04.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#DATA04.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE3RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab example3.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#EXAMPLE3.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+        a       rdf:Property .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE6RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab example6.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#EXAMPLE6.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+rdfs:label  a   owl:DatatypeProperty .
+
+<http://vocab.linkeddata.es/ontology/report#REPORT1773051133879>
+        a           <http://vocab.linkeddata.es/ontology/report#Report> ;
+        rdfs:label  "Report created on Mon Mar 09 11:12:13 CET 2026" ;
+        <http://vocab.linkeddata.es/ontology/report#hasEntry>
+                <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE2RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA01RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE4RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA03RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE5RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA06TTL> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE1RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA04RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLERDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE3RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879HOMEAHMADREPOSPREVCLONE-0NZ9TEAMSGAMEREONTOLOGYONTOLOGYTTL> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA02RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE6RDF> , <http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA05RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#numberVocabsError>
+                "13" ;
+        <http://vocab.linkeddata.es/ontology/report#numberVocabsOK>
+                "0" ;
+        <http://vocab.linkeddata.es/ontology/report#numberVocabsWarning>
+                "1" ;
+        <http://vocab.linkeddata.es/ontology/report#reportDate>
+                "Mon Mar 09 11:12:13 CET 2026"^^xsd:dateTime .
+
+<http://vocab.linkeddata.es/ontology/report#reportDate>
+        a       owl:DatatypeProperty .
+
+<http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+        a       rdf:Property .
+
+<http://vocab.linkeddata.es/ontology/report#Error>
+        a       owl:Class .
+
+<http://vocab.linkeddata.es/ontology/report#Report>
+        a       owl:Class .
+
+<http://vocab.linkeddata.es/ontology/report#MISSINGTITLEORDESC>
+        a           <http://vocab.linkeddata.es/ontology/report#Warning> ;
+        rdfs:label  "Warning: title or description missing from vocabulary" .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA01RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab data01.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#DATA01.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE2RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab example2.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#EXAMPLE2.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA03RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab data03.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#DATA03.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#GENERICERROR>
+        a           <http://vocab.linkeddata.es/ontology/report#Error> ;
+        rdfs:label  "Error: the vocabulary could not be loaded or processed" .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE5RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab example5.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#EXAMPLE5.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879HOMEAHMADREPOSPREVCLONE-0NZ9TEAMSGAMEREONTOLOGYONTOLOGYTTL>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab /home/ahmad/repos/prevclone-0nz9/teams/gamere/ontology/ontology.ttl" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#MISSINGTITLEORDESC> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#/HOMEAHMADREPOSPREVCLONE-0NZ9TEAMSGAMEREONTOLOGYONTOLOGY.TTL> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#warning" .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA06TTL>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab data06.ttl" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#DATA06.TTL> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#numberVocabsError>
+        a       owl:DatatypeProperty .
+
+<http://vocab.linkeddata.es/ontology/report#numberVocabsOK>
+        a       owl:DatatypeProperty .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE1RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab example1.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#EXAMPLE1.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#Warning>
+        a       owl:Class .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLE4RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab example4.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#EXAMPLE4.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879DATA05RDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab data05.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#DATA05.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#Entry>
+        a       owl:Class .
+
+<http://vocab.linkeddata.es/ontology/report#ENTRY1773051133879EXAMPLERDF>
+        a           <http://vocab.linkeddata.es/ontology/report#Entry> ;
+        rdfs:label  "Entry for vocab example.rdf" ;
+        <http://vocab.linkeddata.es/ontology/report#detectedProblem>
+                <http://vocab.linkeddata.es/ontology/report#GENERICERROR> ;
+        <http://vocab.linkeddata.es/ontology/report#entrySubject>
+                <http://vocab.linkeddata.es/ontology/report#EXAMPLE.RDF> ;
+        <http://vocab.linkeddata.es/ontology/report#isEntryOfReport>
+                <http://vocab.linkeddata.es/ontology/report#REPORT1773051133879> ;
+        <http://vocab.linkeddata.es/ontology/report#vocabularyStatus>
+                "http://vocab.linkeddata.es/ontology/report#error" .
+
+<http://vocab.linkeddata.es/ontology/report#hasEntry>
+        a       rdf:Property .
+
+<http://vocab.linkeddata.es/ontology/report#detectedProblem>
+        a       rdf:Property .

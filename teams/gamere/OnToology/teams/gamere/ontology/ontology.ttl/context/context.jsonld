@@ -8,6 +8,9 @@
       "@id" : "http://example.org/def/gamere#tipoArena",
       "@type" : "http://www.w3.org/2001/XMLSchema#string"
     },
+    "versionInfo" : {
+      "@id" : "http://www.w3.org/2002/07/owl#versionInfo"
+    },
     "nameProvincia" : {
       "@id" : "http://example.org/def/gamere#nameProvincia",
       "@type" : "http://www.w3.org/2001/XMLSchema#string"
@@ -60,6 +63,9 @@
       "@id" : "http://example.org/def/gamere#situadaEn",
       "@type" : "@id"
     },
+    "title" : {
+      "@id" : "http://purl.org/dc/elements/1.1/title"
+    },
     "codigoConcello" : {
       "@id" : "http://example.org/def/gamere#codigoConcello",
       "@type" : "http://www.w3.org/2001/XMLSchema#integer"
@@ -77,6 +83,9 @@
     },
     "Concello" : {
       "@id" : "http://example.org/def/gamere#Concello"
+    },
+    "description" : {
+      "@id" : "http://purl.org/dc/terms/description"
     },
     "entorno" : {
       "@id" : "http://example.org/def/gamere#entorno",
